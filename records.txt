@@ -1,0 +1,13 @@
+___________________Jayaditya Express_____________________
+
+________________________Ticket_________________________
+
+________________________________________________________
+
+Customer ID: 19
+Customer Name: Ram
+Customer Gender: Male
+	Description
+
+Destination  :		Puri
+Train Cost : 		600
