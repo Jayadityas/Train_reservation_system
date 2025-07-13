@@ -1,35 +1,33 @@
-🚆 Train Reservation System
+##🚆 Train Reservation System
 A simple console-based C++ application to manage train ticket reservations. This project demonstrates file handling, basic OOP concepts, and a command-line user interface for booking and managing train reservations.
 
-✨ Features
-✅ Book Tickets
+##✨ Features
+1.✅ Book Tickets
 
 Enter passenger details and book seats on available trains.
 
-✅ View Reservation Records
+2.✅ View Reservation Records
 
 See all reservations stored in the system.
 
-✅ Cancel Tickets
+3.✅ Cancel Tickets
 
 Cancel previously booked tickets by entering the relevant details.
 
-✅ Secure File Storage
+4.✅ Secure File Storage
 
 Uses simple file handling to persist reservation data.
 
-🛠 Technologies Used
-C++
+## 🛠 Technologies Used
+1.C++
+2.Standard Library (<iostream>, <fstream>, <cstdio>, etc.)
+3.Windows console (uses system("cls") for clearing screen)
 
-Standard Library (<iostream>, <fstream>, <cstdio>, etc.)
+##🚀 Getting Started
+1.✅ Prerequisites
+1.A C++ compiler (like g++ / MinGW on Windows)
 
-Windows console (uses system("cls") for clearing screen)
-
-🚀 Getting Started
-✅ Prerequisites
-A C++ compiler (like g++ / MinGW on Windows)
-
-Basic familiarity with compiling & running C++ programs
+2.Basic familiarity with compiling & running C++ programs
 
 🔧 How to Run
 Clone the repository
